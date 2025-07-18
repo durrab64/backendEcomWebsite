@@ -57,7 +57,7 @@ git clone https://github.com/durrab64/backendEcomWebsite.git
 cd backendEcomWebsite
 
 
-2. Configure Database
+### 2. Configure Database
 Edit src/main/resources/application.properties:
 
 properties
@@ -91,5 +91,5 @@ Use tools like Postman or Swagger (if enabled) to test the endpoints.
 
 👨‍💻 Author
 Durrab, Abdullah Azmat
-GitHub: @durrab64
+GitHub: @durrab64, @abdullahAzmat-art
 LinkedIn: Muhammad Durrab Rehan
